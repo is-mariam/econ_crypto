@@ -12,12 +12,12 @@ This is a UMBC DATA 603 Group 7 Repository for the Project "Analyzing the Effect
 
 ## Data Analysis Plan
 ### Methods
-Easier data visualization:
-* Matplotlib, Tableau
-Data handling:
-* Fredapi, Pandas, Numpy, Scipy, Scikit-learn
-Model building:
-* TensorFlow
+Easier data visualization:  
+* Matplotlib, Tableau  
+Data handling:  
+* Fredapi, Pandas, Numpy, Scipy, Scikit-learn  
+Model building:  
+* TensorFlow  
 
 <img width="1882" height="974" alt="flowchart_project" src="https://github.com/user-attachments/assets/860c43e4-8e71-4016-b1ba-dbaad48a1cc0" />
 
