@@ -4,7 +4,7 @@ This is a UMBC DATA 603 Group 7 Repository for the Project "Analyzing the Effect
 ## Objectives
 * Collect various economic factor data and synchronize the frequencies in a data lake
 * Find trends between cryptocurrency prices and the larger economic environment using statistical models
-* Implement machine learning (ML) to predict average monthly prices for cryptocurrencies in the next year
+* Implement machine learning (ML) to predict average monthly prices for cryptocurrencies
 
 ## Data Sources
 * FRED database 
@@ -13,35 +13,32 @@ This is a UMBC DATA 603 Group 7 Repository for the Project "Analyzing the Effect
 ## Data Analysis Plan
 ### Methods
 Easier data visualization:
-* Power BI, Seaborn
+* Matplotlib, Tableau
 Data handling:
 * Fredapi, Pandas, Numpy, Scipy, Scikit-learn
 Model building:
-* Pytorch, TensorFlow
+* TensorFlow
 
 <img width="1882" height="974" alt="flowchart_project" src="https://github.com/user-attachments/assets/860c43e4-8e71-4016-b1ba-dbaad48a1cc0" />
 
 ## Repository Structure
-This repository will include notebooks, scripts, and results for model development and analysis.
+This repository includes notebooks and results for model development and analysis.
 
 > [!NOTE]  
-> The content of this repository is not published yet.
+> The complete content of this repository is not published yet.
 
 ```
 ├── README.md
 ├── LICENSE
 ├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── evaluation.ipynb
+│   ├── data_exploration_and_model_training.ipynb
+│   └── visualizations.ipynb
 ├── results/
-│   ├── plots/
-│   ├── metrics.csv
-│   └── predictions.csv
+│   ├── plots
+│   └── predictions
 ├── model/
 │   ├── model.pkl
 │   └── config.json
 └── data/
-    ├── raw/
     └── processed/
 ```
