@@ -12,7 +12,7 @@ This is a UMBC DATA 603 Group 7 Repository for the Project "Analyzing the Effect
 
 ## Data Analysis Plan
 
-![data_stack](https://hackmd.io/_uploads/By1XP6jl-l.png)
+![data_stack](./images/data_stack.png)
 
 
 ### Methods
