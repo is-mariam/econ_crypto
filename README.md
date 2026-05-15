@@ -21,7 +21,7 @@ Easier data visualization:
 Data handling:  
 * Fredapi, Pandas, Numpy, Scipy, Scikit-learn  
 Model building:  
-* TensorFlow  
+* TensorFlow 
 
 
 
